@@ -1,0 +1,26 @@
+{
+  "done": true,
+  "migration": {
+    "name": "mig_cs2i3la2go8te7ad4gfg",
+    "operations": [
+      {
+        "add_column": {
+          "table": "users",
+          "column": {
+            "pk": false,
+            "name": "userName",
+            "type": "text",
+            "unique": false,
+            "comment": "",
+            "nullable": true
+          }
+        }
+      }
+    ]
+  },
+  "migrationType": "pgroll",
+  "name": "mig_cs2i3la2go8te7ad4gfg",
+  "parent": "mig_cs2i39l4rshpd1p6d3j0",
+  "schema": "public",
+  "startedAt": "2024-10-08T12:13:09.553599Z"
+}

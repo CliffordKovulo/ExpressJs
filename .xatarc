@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Clifford-Kilonzo-s-workspace-p0nd0c.us-east-1.xata.sh/db/xataDB",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
